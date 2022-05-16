@@ -23,4 +23,4 @@ Using CUDA feature of NVIDIA GPUs, the loop optimized code will be improved even
 
 ## Performance
 Below is the runtime to train the model upto 98% percent accuracy on MNIST dataset.
-![alt text](https://github.com/theUnspecified/Optimizing-DNN/edit/main/git_pic.png)
+![alt text](https://github.com/theUnspecified/Optimizing-DNN/blob/main/git_runtime.png)
